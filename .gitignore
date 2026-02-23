@@ -9,7 +9,6 @@ bower_components/
 
 # Build outputs
 build/
-dist/
 out/
 *.min.js
 *.min.css
